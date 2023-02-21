@@ -1,5 +1,5 @@
 # PCE500_MATH
-Mathematical and statistical applications for Sharp PCE500.
+Mathematical and statistical applications for SHARP PC-E500.
 ## Kombinatorik
 
     1:  REM ********************************************
