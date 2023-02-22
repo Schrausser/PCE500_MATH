@@ -262,5 +262,68 @@ Mathematical and statistical applications for SHARP PC-E500.
     3:  REM         unabhängigen Ereignissen
     4:  REM      von Dietmar Schrausser (c)2014
     5:  REM ********************************************
+# DIST
 
+## z-Scal
+
+    1:  REM ********************************************
+    2:  REM            z zu Skalenwert
+    3:  REM      von Dietmar Schrausser (c)2014
+    4:  REM ********************************************
+
+## z-PR
+
+    1:  REM ********************************************
+    2:  REM                   z-PR
+    4:  REM      von Dietmar Schrausser (c)2013
+    5:  REM ********************************************
+
+## t-sim
+
+    1:  REM ********************************************
+    2:  REM      t-Verteilungs-Simulation (unvollständig)
+    3:  REM          von Dietmar Schrausser (c)2014
+    4:  REM ********************************************
+
+## skalen
+
+    1:  REM ********************************************
+    2:  REM                Skalen 
+    3:  REM      von Dietmar Schrausser (c)2014
+    4:  REM ********************************************
+
+## Q-function
+
+    1:  REM ********************************************
+    2:  REM           Q-Funktion f(z,t)=p
+    3:  REM      von Dietmar Schrausser (c)2014
+    4:  REM ********************************************
+
+## PR_Tab
+
+    1:  REM ********************************************
+    2:  REM               PR-Tabelle 
+    3:  REM      von Dietmar Schrausser (c)2014
+    4:  REM ********************************************
+
+## PF_FRx
+
+    1:  REM ********************************************
+    2:  REM                PF-Keys
+    3:  REM      von Dietmar Schrausser (c)2014
+    4:  REM ********************************************
+
+## epsilon
+
+    1:  REM ********************************************
+    2:  REM           Effektgrösse Epsilon
+    4:  REM      von Dietmar Schrausser (c)2013
+    5:  REM ********************************************
+
+## CI
+
+    1:  REM ********************************************
+    2:  REM         Konfidenzintervall CI
+    3:  REM      von Dietmar Schrausser (c)2013
+    4:  REM ********************************************
 
